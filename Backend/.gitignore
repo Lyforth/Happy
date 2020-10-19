@@ -1,5 +1,8 @@
 node_modules
 
-database.sqlite
+.env
 
-/uploads/*
+uploads/*
+!uploads/.gitkeep
+
+*.lock
